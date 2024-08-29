@@ -58,7 +58,7 @@ Through this project, I improved my skills in creating responsive designs using 
 
 ## Author
 
-- LinkedIn - [Yashi Singh](www.linkedin.com/in/yashi-singh-b4143a246)
+- LinkedIn - [Yashi Singh](https://www.linkedin.com/in/yashi-singh-b4143a246)
 - Frontend Mentor - [@Yashi-Singh-1](https://www.frontendmentor.io/profile/Yashi-Singh-1)
 
 ## Acknowledgments
