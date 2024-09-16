@@ -1,7 +1,7 @@
 # Frontend Mentor - Stats preview card component solution
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f5d9352a-58af-4d0c-b82a-543538eff805/deploy-status)](https://app.netlify.com/sites/stats-preview-card-component-by-yashi/deploys)
-[![Last commit](https://img.shields.io/github/last-commit/Yashi-Singh-9/Stats-Preview-Card-Component)](https://github.com/Yashi-Singh-9/Stats-Preview-Card-Component/commits/main)
+[![Last commit](https://img.shields.io/github/last-commit/Yashi-Singh-9/Stats-Preview-Card-Component?cacheSeconds=60)](https://github.com/Yashi-Singh-9/Stats-Preview-Card-Component/commits/main)
 
 This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -35,7 +35,6 @@ Users should be able to:
 
 - Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/stats-preview-card-component-CWVR1UQjhy)
 - Live Site URL: [Live Site](https://stats-preview-card-component-by-yashi.netlify.app)
-- Repository URL: [GitLab Repository](https://gitlab.com/Yashi-Singh-9/stats-preview-card-component.git)
 
 ## My process
 
