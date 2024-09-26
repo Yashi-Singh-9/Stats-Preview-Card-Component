@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/stats-preview-card-component-CWVR1UQjhy)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/stats-preview-card-component-eQzkFvV9uf)
 - Live Site URL: [Live Site](https://stats-preview-card-component-by-yashi.netlify.app)
 
 ## My process
@@ -58,7 +58,7 @@ Through this project, I improved my skills in creating responsive designs using 
 ## Author
 
 - LinkedIn - [Yashi Singh](https://www.linkedin.com/in/yashi-singh-b4143a246)
-- Frontend Mentor - [@Yashi-Singh-1](https://www.frontendmentor.io/profile/Yashi-Singh-1)
+- Frontend Mentor - [@Yashi-Singh-9](https://www.frontendmentor.io/profile/Yashi-Singh-9)
 
 ## Acknowledgments
 
